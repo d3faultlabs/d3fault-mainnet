@@ -4,10 +4,6 @@
 
 ---
 
-![Privacy](./public/privacy.jpg)
-
----
-
 ## Built With
 
 ![Next.js](https://img.shields.io/badge/Next.js-16.2.0-black?style=for-the-badge&logo=next.js)
