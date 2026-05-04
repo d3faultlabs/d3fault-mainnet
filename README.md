@@ -126,7 +126,7 @@ For detailed information, see [SECURITY.md](./SECURITY.md#privacy-policy)
 ## Network Status
 
 - **Devnet**: ✅ Live and fully operational
-- **Mainnet Beta**: 🔄 Coming soon
+- **Mainnet Beta**: ✅ Live and fully operational
 - **API Access**: Available for integrations
 
 ## Pricing
