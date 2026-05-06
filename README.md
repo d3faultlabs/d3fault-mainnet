@@ -110,16 +110,22 @@ At D3FAULT, privacy is a fundamental right, not an optional add-on.
 
 **We do NOT:**
 - Store or access your private keys
-- Track your transactions
-- Log your IP addresses
-- Collect personal information
+- Track your transactions or wallet balances
+- Collect personal information or KYC
 - Sell or share any data
 
 **Our Privacy Promise:**
-- 100% non-custodial
-- 0% data stored
-- Zero analytics tracking
+- 100% non-custodial - you control your keys
+- Zero transaction tracking
+- No personal data collection
 - Open-source and auditable
+
+**Analytics Disclosure:**
+- We use Vercel Analytics for anonymized page view metrics only
+- No personal identifiers are collected
+- Data includes: page views, geolocation (country-level), device type
+- Used solely for improving user experience
+- Read more: [Vercel Analytics Privacy](https://vercel.com/docs/analytics/privacy)
 
 For detailed information, see [SECURITY.md](./SECURITY.md#privacy-policy)
 
